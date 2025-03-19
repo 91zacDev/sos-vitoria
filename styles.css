@@ -27,9 +27,9 @@ header {
     background: #c2185b;
     text-align: center;
     position: absolute;
-    width: 100%;
+    width: 30%;
     top: 60px;
-    left: 0;
+    right: 0;
 }
 .menu ul {
     list-style: none;
@@ -62,4 +62,9 @@ footer {
     background-color: #333;
     color: white;
     margin-top: 20px;
+}
+img{
+    width: 40%;
+    height: 60%;
+    position: relative;
 }
